@@ -1,0 +1,28 @@
+_repo: Journal-of-a-West-India-Proprietor-Kept-During-a-Residence-in-the-Island-of-Jamaica_54500
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lewis, M. G. (Matthew Gregory)
+    aliases:
+    - Lewis, Monk
+    - Lewis, Matthew Gregory
+    birthdate: 1775
+    deathdate: 1818
+    gutenberg_agent_id: '315'
+    url: http://www.gutenberg.org/2009/agents/315
+    wikipedia: http://en.wikipedia.org/wiki/Matthew_Gregory_Lewis
+description: ''
+gutenberg_issued: '2017-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Journal of a West India Proprietor
+
+  Kept During a Residence in the Island of Jamaica'
+url: http://www.gutenberg.org/ebooks/54500
