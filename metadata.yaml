@@ -1,5 +1,8 @@
 _repo: Journal-of-a-West-India-Proprietor-Kept-During-a-Residence-in-the-Island-of-Jamaica_54500
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54500-h/images/cover.jpg
 creator:
   author:
     agent_name: Lewis, M. G. (Matthew Gregory)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/315
     wikipedia: http://en.wikipedia.org/wiki/Matthew_Gregory_Lewis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54500#Journal-of-a-West-India-Proprietor-Kept-During-a-Residence-in-the-Island-of-Jamaica
 gutenberg_issued: '2017-04-07'
 gutenberg_type: Text
 identifiers:
